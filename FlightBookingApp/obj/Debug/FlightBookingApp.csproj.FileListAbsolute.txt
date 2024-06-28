@@ -1,0 +1,13 @@
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\bin\Debug\FlightBookingApp.exe.config
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\bin\Debug\FlightBookingApp.exe
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\bin\Debug\FlightBookingApp.pdb
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.csproj.AssemblyReference.cache
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.BoardingPassForm.resources
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.BookingForm.resources
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.FlightForm.resources
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.MainForm.resources
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.Properties.Resources.resources
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.csproj.GenerateResource.cache
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.csproj.CoreCompileInputs.cache
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.exe
+C:\Users\lavre\OneDrive\Рабочий стол\Курсач\4\FlightBookingApp\obj\Debug\FlightBookingApp.pdb
